@@ -5,10 +5,10 @@ The API is implemented using Express.js and CRUD operations are accomplished usi
 The database schema that has been used is present in api.sql file. 
 
 ## Set up the project in the working directory
-npm init
-npm install express
-npm install mysql
-npm install nodemon 
+npm init__
+npm install express__
+npm install mysql__
+npm install nodemon__ 
 nodemon index.js
 
 
