@@ -9,7 +9,7 @@ npm init <br />
 npm install express <br />
 npm install mysql <br />
 npm install nodemon <br />
-nodemon index.js <br />
+nodemon index.js 
 
 
  
